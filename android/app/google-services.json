@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280046132065",
+    "project_id": "flutterfilepicker-3af3d",
+    "storage_bucket": "flutterfilepicker-3af3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280046132065:android:fb2f3c12b452c1d6f6c320",
+        "android_client_info": {
+          "package_name": "com.example.flutter_file_picker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280046132065-p9gemckr4tc9cqn2njbo886902553n6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMJ_zjLpFzGRXR0LLH40qiGg6L6yU7mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280046132065-p9gemckr4tc9cqn2njbo886902553n6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
